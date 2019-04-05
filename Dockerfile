@@ -17,7 +17,7 @@ RUN unzip ijava-kernel.zip -d ijava-kernel \
 
 # Set up the user environment
 
-ENV NB_USER TomMarvolo
+ENV NB_USER tommarvolo
 ENV NB_UID 1000
 ENV HOME /home/$NB_USER
 
